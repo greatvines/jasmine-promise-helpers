@@ -1,0 +1,12 @@
+{
+  "name": "jasmine-promise-helpers",
+  "version": "1.0.0",
+  "description": "Functions to help with testing promise-returning functions in jasmine",
+  "main": "index.js",
+  "author": "Christian G. Warden <christian.warden@greatvines.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "underscore": "^1.7.0"
+  }
+}
